@@ -1,5 +1,5 @@
 <!--
-    http://deckdown.org/
+    http://deckdown.org/deck?theme=moon&src=https://github.com/gyohza/slideshows/raw/master/CompSci/img-proc_halftoning.md
 -->
 
 # Processamento de Imagem
