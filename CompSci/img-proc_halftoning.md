@@ -16,9 +16,7 @@
 
 Os pontos podem variar em **tamanho** e **espaçamento**.
 
----
-
-A imagem criada pela técnica também pode ser referida pelo nome "meio-tom".
+Imagens criadas com a técnica também podem ser referidas pelo nome "meio-tom".
 
 ---
 
