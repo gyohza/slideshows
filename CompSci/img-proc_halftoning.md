@@ -108,7 +108,7 @@ Em cada ponto cromático, uma determinada cor pode estar ativa (1) ou inativa (0
 
 Técnicas de inversão de meio-tom procuram desfazer o efeito pontilhado causado pelo meio-tom, convertendo a imagem em uma imagem de tom contínuo.
 
-<img alt="Halftoning_Inverso" height="400" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/7aa98713e83a4b9dd5f1bccc3db39a3956d91e46/3-Figure4-1.png" />
+<img alt="Halftoning_Inverso" height="500" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/7aa98713e83a4b9dd5f1bccc3db39a3956d91e46/3-Figure4-1.png" />
 
 ---
 
