@@ -100,7 +100,7 @@ O problema pode ser reduzido rotacionando-se as telas, uma em relação à outra
 
 Técnicas de meio-tom digital utilizam imagens matriciais (raster/bitmap).
 
-Em cada ponto cromático uma determinada cor pode estar ativa (1) ou inativa (0) - isto é, imagens são formadas a partir de dados binários.
+Em cada ponto cromático, uma determinada cor pode estar ativa (1) ou inativa (0) - isto é, imagens são formadas a partir de dados binários.
 
 <img alt="Halftoning_Digital" height="400" src="https://nullprogram.com/img/halftone/halftone-eye-thumb.png" />
 
